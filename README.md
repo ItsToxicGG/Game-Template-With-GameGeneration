@@ -1,2 +1,2 @@
-# Game-Template-With-Voting
-A Simple Game template for developers with an working voting system in PM5
+# Game-Template-With-GameGeneration
+A Simple Game template for developers with an working game generation system in PM5
